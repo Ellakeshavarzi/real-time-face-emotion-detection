@@ -1,4 +1,5 @@
-# real-time-face-emotion-detection
+# Emotion_detection_with_CNN
+
 ### Packages need to be installed
 - pip install numpy
 - pip install opencv-python
